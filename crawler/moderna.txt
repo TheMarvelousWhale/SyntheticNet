@@ -1,0 +1,435 @@
+==========https://www.cdc.gov/vaccines/covid-19/info-by-product/moderna/index.html===========
+<<h1>>
+moderna covid-19 vaccine
+<<p>>
+covid-19 vaccination providers must document vaccine administration in their medical record systems within 24 hours of administration and use their best efforts to report administration data to the relevant system for the jurisdiction (i.e., immunization information system) as soon as practicable and no later than 72 hours after administration.
+get the moderna covid-19 vaccine training module for healthcare professionals
+multidose vial: maximum of 11 doses per vial dosage: 0.5 ml
+note: persons who have a contraindication to an mrna covid-19 vaccine (moderna or pfizer-biontech) may be able to receive the janssen covid-19 vaccine (see footnote).±
+store vaccine in a freezer or refrigerator.
+see guidance below for each storage unit.
+*gloves are not required unless the person administering the vaccine is likely to come in contact with potentially infectious body fluids or has open lesions on the hands.
+if worn, perform hand hygiene and change gloves between patients.
+before administering vaccine, screen recipients for contraindications and precautions, even if the recipient is scheduled to receive the second dose.
+the recipient’s health condition or recommendations regarding contraindications and precautions for vaccination may change from one visit to the next.
+to receive email updates about this page, enter your email address:
+print informationpdf icon for your patients on common side effects, helpful tips, and when to call a doctor after a covid-19 vaccination.
+storage unit temperatures must be monitored regularly and checked and recorded at the beginning of each workday to determine if any excursions have occurred since the last temperature check.
+for accurate temperature monitoring, use a digital data logger (ddl) with a detachable probe that best reflects vaccine temperatures (e.g., probe buffered with glycol, glass beads, sand, or teflon®).
+check and record the temperature daily using a temperature log and one of the options below:
+†for the purpose of this guidance, an immediate allergic reaction is defined as any hypersensitivity-related signs or symptoms, such as urticaria, angioedema, respiratory distress (e.g., wheezing, stridor), or anaphylaxis that occur within 4 hours following exposure to a vaccine or medication.
+adverse events that occur in a recipient after covid-19 vaccination are required to be reported to the vaccine adverse event reporting system (vaers).
+fda requires vaccination providers to report vaccine administration errors, serious adverse events, cases of multisystem inflammatory syndrome, and cases of covid-19 that result in hospitalization or death after administration of covid-19 vaccine under an eua.
+reporting is encouraged for other clinically significant adverse events, even if it is not clear that a vaccine caused the adverse event.
+complete and submit reports to vaers onlineexternal icon.
+updates on 4/21/2021
+2-dose series separated by 28 days a series started with covid-19 vaccine (moderna) should be completed with this product.
+to assess patients correctly and consistently, vaccination providers should use a standardized, comprehensive screening tool.
+for further assistance with reporting to vaers, call 1-800-822-7967.
+18 years of age and older
+intramuscular (im) injection in the deltoid muscle
+± consider consultation with an allergist-immunologist to help determine if the patient can safely receive vaccination.
+healthcare providers and health departments may also request a consultation from the clinical immunization safety assessment covid vax project.
+vaccination of these individuals should only be done in an appropriate setting under the supervision of a healthcare provider experienced in the management of severe allergic reactions.
+webpage content and individual pdfs are updated when there’s new guidance concerning the moderna covid-19 vaccine.
+expand each section below to see a summary of new and updated items spanning the past month.
+temperature excursions or inappropriate storage conditions for any vaccine require immediate action.
+any temperature reading outside the recommended ranges is considered a temperature excursion.
+responses to temperature excursion reports are dependent on information given by the provider to the manufacturer.
+completing the vaccine troubleshooting record for temperature excursions can help provide needed information for manufacturers to determine the viability of the vaccine.
+do not mix with a diluent.
+discard vial when there is not enough vaccine to obtain a complete dose.
+do not combine residual vaccine from multiple vials to obtain a dose.
++changing needles between drawing vaccine from a vial and injecting it into a recipient is not necessary unless the needle has been damaged or contaminated.
+for cdc temperatures logs, see storage and handling resources below.
+
+
+==========https://www.fool.com/investing/2021/04/23/the-biggest-mrna-winner-pfizer-biontech-moderna-or/===========
+<<h1>>
+the biggest mrna winner: pfizer, biontech, moderna, or an under-the-radar biotech?
+<<p>>
+i think that's a big advantage of those three over any smaller biotech.
+they're probably is going to end up being acquired rather than trying to fight with the other companies, it'll be easier for the management to just sell it off and you might make some money there, but i don't like to invest.
+one of my thesis is i'm hoping this company's going to get bought, that's out of your control and hard to guess the timeline.
+speights: exactly.
+i will throw in one semi-under-the-radar stock just for investors to check out on their own, curevac (nasdaq:cvac), the ticker, there's cvac.
+they're also developing a messenger rna covid vaccine that's in late-stage testing.
+the company, it's a german company i believe, or a dutch company.
+stock advisor launched in february of 2002.
+returns as of 04/28/2021.
+ market data powered by factset and web financial group.
+of the two big biotechs, i think the biggest issue is probably market cap.
+moderna is about 60 billion; biontech is 31 billion.
+that doesn't leave a lot of room for growth in the next few years.
+over the long term, maybe the valuation doesn't matter, you could holds your nose and buy anyway.
+keith speights: this is a semi-covid-19-related story.
+many americans probably know more about messenger rna, mrna, now than they ever thought [laughs] they would, because of the successful mrna vaccines that have hit the market from moderna, ticker there is mrna, and pfizer, pfe is the ticker there, and its partner, biontech, bntx is the ticker there.
+returns as of 4/28/2021
+brian orelli: i'm going to put under-the-radar stocks back under the radar, because i think they might give you better returns, but i think you're taking on more risk than companies that have already proven out their technology.
+orelli: yeah.
+the issue is that you can't compare a company that's going to get a one-time boost to a company that has recurring revenue.
+that's been the valuation problem with moderna and biontech since the pandemic started is how long is the revenue going to last?
+if it's going to last for multiple years then they're dirt cheap right now and if it's going to last for one year then they're probably too expensive and maybe it's something in between those two and maybe it's perfectly priced.
+in terms of pfizer, its executives have hinted that the company plans to go it alone with mrna, and not continue on with biontech.
+we'll have to see what its plans are before we try to handicap it against moderna and biontech.
+at least with moderna and biontech you know what's in their pipelines right now.
+i don't think pfizer's disclosed any mrna candidate so far.
+so it's presumably behind moderna and biontech that have some middle to early stage candidates.
+speights: by the way, brian, because you said, you admitted you like to be cheap.
+i wrote an article not long ago about whether or not moderna is actually a value stock.
+the [laughs] reason why i did it, i noticed that their forward price to earnings multiple is nine.
+biontech's forward p/e is 8.
+of course, what it is is the massive sales that they'll be getting this year from their vaccine.
+brian, with all of these players jumping in or already in messenger rna, which company do you think could be in the best position to be the biggest mrna winter?
+do you think it's pfizer, biontech, moderna, or just some other company that's perhaps under the radar right now.
+ market data powered by factset and web financial group.
+but there are other players in the messenger rna arena, and the list continues to grow.
+sanofi, the ticker there is sny, announced last week that it's acquiring tidal therapeutics, which is an mrna-focused biotech.
+founded in 1993 by brothers tom and david gardner, the motley fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.
+they've secured several 100 million doses in a supply deal with the european union and have a big partner with bayer and have some intriguing pipeline candidates that are mrna therapies so that's another one that you might want to take a look at.
+it doesn't have the visibility yet anyway that a moderna or biontech would have.
+of course, the real issue is how much of that is going to be recurring, i think that's the big question there.
+but if someone just looked at the forward earnings multiples, they would think these stocks are dirt cheap right now.
+[laughs]
+the other advantage to buying a company like biontech, or moderna, is that they have a huge balance sheet right now.
+one of the hardest things for a biotech company to do is to balance raising capital, you either have to dilute shareholders through doing secondary offerings, or you have to license your drugs and then you're sharing revenue.
+moderna and biontech, and pfizer, for that matter, are going to have to do that anytime in the near future because they have plenty of capital.
+messenger rna (mrna) vaccines have transformed the fight against covid-19 thanks to the success achieved by pfizer (nyse:pfe), biontech (nasdaq:bntx), and moderna (nasdaq:mrna).
+the technology also holds significant potential in fighting other diseases.
+in this motley fool live video recorded on april 14, 2021, motley fool contributors keith speights and brian orelli discuss which company -- whether one of these well-known players or an under-the-radar biotech -- is poised to be the biggest mrna winner.
+that strategy certainly works for david gardner, with his rule breakers picks.
+i'm trying to embrace it as much as i can, but i'm also cheap, and so i like a good value play when i can find one.
+that's the reason why i haven't bought moderna or biontech.
+
+
+==========https://www.businessinsider.com/man-just-got-3rd-moderna-covid-booster-vaccine-side-effects-2021-4===========
+<<h1>>
+a man who got his first covid-19 vaccine a year ago in moderna's clinical trial just received his third shot — and he's feeling great
+<<p>>
+the attention he's gotten has been overwhelmingly positive, haydon said.
+a lot of people have reached out to him saying they too would like to volunteer for a vaccine trial.
+he tells them opportunities vary regionally, and he would encourage folks to look into research studies in their areas.
+get it now on libro.fm using the button below.
+about three months ago, haydon was contacted by the team running the phase 1 trial.
+the researchers were looking into the safety of a possible booster shot, and the early trial participants were their best hope for a long-term study.
+free subscriber-exclusive audiobook!
+the moderna researchers would later decide that a medium dose provided the same protection with less severe side effects than what haydon experienced.
+even after the brutal 24 hours, haydon said he didn't regret participating in the trial.
+haydon got the shot on april 1, nearly a year after his first dose of the vaccine.
+fortunately, his reaction wasn't nearly as severe as his second-shot side effects — probably similar to what most people are experiencing after their second dose of the vaccine nowadays.
+he'll also have to stay tuned for results of an ongoing trial of a possible booster shot that could protect against coronavirus variants.
+that puts haydon in an elite group of about 60 participants who have now received three covid-19 shots, and will help scientists prepare for the next stage of the pandemic.
+among the outpouring of supportive responses, haydon has fielded many questions about his antibody levels, one indication of protection against the coronavirus.
+haydon said he's been amazed at the level of engagement of people following his story on social media.
+as a science communicator, he's noticed more people are paying attention to science news, especially when it comes to vaccine development.
+after waking up in the middle of the night with a high fever, nausea, headache, and muscle aches, haydon called the 24-hour hotline set up for trial participants — which was open "in case anything got bad, and this was kind of bad."
+but haydon still felt ill when he woke up in the middle of the next day.
+at home, he threw up and fainted shortly after, but opted not to return to urgent care.
+by that evening, his fever was climbing down and the headache and nausea were getting less intense.
+and when he woke up the next day, he was "basically fully recovered."
+ian haydon's covid immunity is a popular topic on twitter.
+the 30-year-old got his first shot of the moderna vaccine over a year ago, and he's been sharing his experience on social media ever since.
+the second shot was a different story.
+haydon experienced similar arm pain that came on more suddenly than the last time, and about 12 hours after the shot, the chills started.
+when he took his temperature in the middle of the night, it was over 103 degrees fahrenheit.
+he had some arm pain the day he got the booster shot, as well as a low-grade fever, nausea, aches, and fatigue that lasted into the next day.
+again, he recovered after about 24 hours of side effects.
+“no rules rules: netflix and the culture of reinvention”
+he got an experimental booster made up of 25 micrograms of the moderna vaccine that's currently in use and 25 micrograms of a new vaccine tailored to the b.1.351 variant that was first spotted in south africa.
+"i want to know the same thing," he told insider.
+as a participant in one of the first covid-19 vaccine trials — which started with just 45 people — haydon has had his blood drawn periodically over the past year, but he'll have to wait for the study results to be published to learn more about his long-term immunity.
+haydon learned about the vaccine trial from a coworker last spring — "really in the before times," he said.
+he filled out a sign-up form without much thought, not certain he would hear back.
+"there are two questions that the researchers are looking at: we don't know whether it's safe to take a booster at all, and we also don't know what the effect of taking a slightly modified version of the vaccine is going to be," haydon said.
+ subscriber account active since
+"it's been incredible to see this go from an experimental vaccine i was getting and nobody knew if it was going to work, to seeing dozens of people posting their vaccine selfies every day," haydon said.
+"it's just a really cool feeling to see it have a real impact in the world."
+ good
+"my first shot was quite uneventful," haydon told insider.
+"i remember i had arm pain, soreness at the injection site that came on the next day and then faded pretty quickly."
+a leading-edge research firm focused on digital transformation.
+"as bad as it was to go through, it still is comforting to me to know that it wasn't for nothing," haydon told insider.
+"we learned about the dose of the vaccine that's most effective and what dose is too high, and that's going to go on to benefit a lot of people who end up taking a safer dose of the vaccine."
+on april 8, 2020, haydon received his first shot of an experimental vaccine dose that's notably higher than what's currently authorized for use.
+he was enrolled in a phase 1 safety trial, meaning that all participants got an active dose and were monitored for side effects.
+he was advised to go to urgent care, where he received iv fluids and tylenol to bring his fever down.
+haydon said he felt "a lot better" after the two hours he spent at urgent care.
+he was eventually discharged and went home to catch up on the sleep he missed.
+
+
+==========https://www.channelnewsasia.com/news/singapore/covid-19-moderna-more-vaccination-centres-singapore-appeal-early-14419868===========
+<<h1>>
+<<p>>
+
+
+==========https://www.foxnews.com/health/johnson-johnson-covid-19-vaccine-compare-moderna-pfizer===========
+<<h1>>
+how does johnson & johnson's covid-19 vaccine compare to moderna, pfizer?
+<<p>>
+it's also important to note that pfizer and moderna’s vaccines each require a two-dose regimen while, johnson & johnson’s product requires just a single dose, which eased logistics prior to the national pause tuesday.
+dr. peter marks, director at fda center for biologics evaluation and research, told reporters on tuesday a probable cause behind the clotting that occurred among vaccine recipients might include a similar mechanism seen with astrazeneca's product, another adenoviral vector vaccine being rolled out in europe, in which a rare immune response occurred post-vaccination, leading to activation of platelets and "extremely rare" blood clots.
+vaccines developed by moderna and pfizer-biontech operate on a newer platform with mrna, or messenger rna, technology, while johnson & johnson’s candidate involves a more traditional modified adenovirus vector vaccine with a durable protein exterior encasing the dna, lending itself to a longer shelf-life.
+while the pfizer and moderna covid-19 vaccines train the body to recognize the spike protein that coats the outer surface of the coronavirus, the j&j and astrazeneca vaccines use a cold virus, called an adenovirus, to carry the spike gene into the body.
+j&j uses a human adenovirus to create its vaccine while astrazeneca uses a chimpanzee version.
+the astrazeneca vaccine is not yet authorized for use in the u.s.
+click here for complete coronavirus coverage
+johnson & johnson’s vaccine candidate is stable for up to two years at -20 degrees celsius and at least three months at 2 to 8 degrees celsius.
+moderna’s vaccine can last at -20 degrees celsius for six months and 2 to 8 degrees celsius for 30 days.
+meanwhile, in february the fda eased permitted shipping and two-week storage temperatures for the pfizer vaccine to -25 degrees celsius to -15 degrees celsius in a significant shift from an ultra-cold temperature requirement of -80 degrees celsius and -60 degrees celsius for up to six months.
+pfizer’s vaccine was authorized for use in people 16 years and older, while moderna and j&j's was approved for those 18 and up.
+pfizer announced last week that it submitted a request for emergency use authorization to begin administering its covid-19 vaccine to adolescents between the ages of 12 and 15 in the u.s.
+ this material may not be published, broadcast, rewritten, or redistributed.
+©2021 fox news network, llc.
+all rights reserved.
+quotes displayed in real-time or delayed by at least 15 minutes.
+market data provided by factset.
+powered and implemented by factset digital solutions.
+legal statement.
+mutual fund and etf data provided by refinitiv lipper.
+what's the difference between mrna vaccines and conventional ones?
+cdc investigating death possibly connected to johnson & johnson vaccine
+subscribed
+ this material may not be published, broadcast, rewritten, or redistributed.
+©2021 fox news network, llc.
+all rights reserved.
+quotes displayed in real-time or delayed by at least 15 minutes.
+market data provided by factset.
+powered and implemented by factset digital solutions.
+legal statement.
+mutual fund and etf data provided by refinitiv lipper.
+for those facing the latter, it's important to know how the shots compare.
+fox news' alexandria hein and the associated press contributed to this report.
+according to the fda, there have been six reported cases of the rare and severe type of blood clot in over 6.8 million johnson & johnson covid-19 vaccine recipients.
+the fda said tuesday it expects the pause to last several days as experts review available data.
+you've successfully subscribed to this newsletter!
+stay up-to-date on the biggest health and wellness news with our weekly recap.
+the cdc and fda will pause the use of the johnson &amp; johnson covid-19 vaccine at federal sites after several instances of severe blood clots in recipients.
+clinical trials indicated vaccines developed by pfizer and moderna were about 95% effective against symptomatic illness, and johnson & johnson’s candidate had a 66.3% efficacy.
+trial data also revealed all three vaccines were highly effective in preventing hospitalizations and deaths.
+with johnson & johnson’s covid-19 vaccine facing an fda-recommended pause after several instances of severe blood clots were reported in recipients, those who had scheduled j&j shots could see a bumpy rescheduling process involving canceled or delayed appointments, or even find themselves lined up to receive an alternative vaccine if supply allows.
+
+
+==========https://www.healthline.com/health-news/covid-19-vaccines-using-mrna-appear-safe-and-effective-in-pregnant-people===========
+<<h1>>
+covid-19 vaccines using mrna appear safe and effective in pregnant people
+<<p>>
+in the country’s race to vaccinate people and build herd immunity against covid-19, local governments and public health leaders have had to come up…
+bornstein and ragsdale have been encouraging their pregnant patients to get vaccinated against covid-19.
+“i think all healthcare providers understand the [vaccine] hesitancy that patients have,” ragsdale told healthline.
+“in the adverse outcomes that they looked at, there was no signal to show an increased risk compared to historical controls.
+there was no signal of an abnormal outcome that stands out compared to what is expected in pregnancy,” he said.
+in the meantime, the american college of obstetricians and gynecologists (acog) has advised doctors to “encourage pregnant and postpartum women who wish to be vaccinated to receive the mrna vaccines: pfizer or moderna.”
+however, he thinks it’s important to share these data at a time when many pregnant people have questions about the safety of covid-19 vaccines.
+experts note that mrna research has been around for 30 years.
+its success in covid-19 vaccines may lead to breakthroughs in flu, hiv vaccinations.
+“but we know that covid is extremely dangerous, especially in pregnant women and postpartum women, and we have yet to see any risk of danger from any of the three accepted vaccines on the market for pregnant women,” she continued.
+he expects more long-term research and controlled studies to be published in the future.
+future studies may also provide more data on the safety of the johnson & johnson vaccine in pregnancy, which was not addressed in the nejm study.
+“it’s important for women to know that the risks of these vaccines appear to be low compared to the benefits, which are very high,” bornstein said.
+as covid-19 vaccine campaigns roll out across the country, many pregnant people have approached their doctors with questions and concerns about vaccine safety.
+“i think it’s also important to consider what your covid exposure risk is,” she said.
+“we know that covid is still very prevalent and that the number of people being diagnosed on a regular basis is still significant,” she added.
+six cases of brain blood clots have been reported among 7.5 million people who have received the johnson & johnson vaccine in the united states.
+while efforts to distribute the moderna and pfizer vaccines continue across the country, the cdc has currently paused the distribution of the johnson & johnson vaccine, due to rare reports of blood clots in the brain.
+experts say they’re encouraged by the decrease in the number of covid-19 cases, but they worry about the impact of vaccine hesitancy.
+u.s. federal health officials said on april 23 that vaccinations with johnson & johnson’s covid-19 vaccine can restart, with vaccine fact sheets…
+thompson encourages people who are pregnant to speak with their pregnancy care providers about the risk of covid-19, as well as the potential benefits and risks of vaccination.
+ragsdale has been caring for pregnant people with covid-19 for more than a year and has seen the “devastation” the disease can cause.
+the cdc’s advisory committee on immunization practices (acip) is scheduled to meet today to decide whether to resume vaccination with the johnson & johnson product.
+a new report published this week in the new england journal of medicine (nejm) may help address some of these questions and concerns.
+getting vaccinated not only lowers the risk of contracting the virus, it also reduces the severity of covid-19 in people who develop it.
+in a new study, computer modeling found that rapidly identifying asymptomatic covid-19 cases in children could help prevent outbreaks as effectively…
+the acog, society for maternal-fetal medicine, and american society for reproductive medicine have all recommended that pregnant people be given access to covid-19 vaccines.
+according to bornstein, it’s unusual for a leading medical journal like the nejm to publish preliminary observational findings.
+the nejm report shares preliminary findings from an observational study, rather than the results of a randomized control trial.
+experts say even if you get a less-effective covid-19 vaccine now, getting a different, more effective vaccine in the future should be perfectly safe…
+while the risks of covid-19 vaccination in pregnancy appear to be low, the potential benefits are high, said dr. ellie ragsdale, a maternal and fetal medicine specialist at uh cleveland medical center in ohio.
+so has dr. jennifer thompson, an obstetrician-gynecologist and associate professor of maternal-fetal medicine at vanderbilt university medical center in nashville, tennessee.
+u.s. health authorities announced revised mask use guidelines for people who are fully vaccinated.
+according to the announced guidelines, fully…
+“i think that this is a very reassuring study,” dr. eran bornstein, the director of the center for maternal-fetal medicine at lenox hill hospital in new york, new york, told healthline.
+our brands
+according to preliminary data from the v-safe covid-19 vaccine pregnancy registry, there appears to be no increased risk of preterm birth, low-birth weight, miscarriage, or neonatal death in infants born to people who’ve received the moderna or pfizer covid-19 vaccines.
+“and that risk is increased further if they have other co-morbid conditions, such as diabetes or obesity, or a little bit older age,” she continued.
+“one of the most important things that i want my patients to understand is that based on the information we have, we know pregnancy increases their risk of more severe covid,” she said.
+scientists from the centers for disease control and prevention (cdc) have found that pregnant women are more likely than non-pregnant women to be admitted to an intensive care unit for covid-19.
+they are also more likely to be ventilated for the disease and more likely to die from it.
+surveillance data from the cdc and findings from a review of research published in 2020 have found an increased risk of preterm births among pregnant women with covid-19 as well.
+
+
+==========https://www.nytimes.com/2021/04/20/style/pfizer-or-moderna.html===========
+<<h1>>
+you pfizer, me moderna: vaccine recipients declare loyalty
+<<p>>
+linda hirshman, whose book “victory: the triumphant gay revolution” explores the aids pandemic, is fully on team pfizer.
+“i am a complete fan girl of science.
+as to the pfizer brand, i love them,” she said.
+“it’s funny.
+i am not fussy about which pneumonia vaccine i get.”
+unlike the flu shot which seems to just appear at the end of the summer, many in isolation have been following the every move of these pharmaceutical companies during the pandemic, eagerly awaiting every trial result, every announcement, to see if they could pull off the scientific marvel that would bring us life back to something like normal.
+“it was the race for the cure,” ms. hirshman said.
+“we will now cheer for whoever got it done for us.”
+when people announce they’ve received a covid-19 vaccination others usually respond by asking which one.
+ms. wilensky has a theory about why people even bother to ask.
+“vaccine clinics are these amazing sites where people feel relief after a year of anxiety and devastation,” she said.
+“people are looking for a way to keep talking about such a positive thing.”
+still, a friendly rivalry has taken hold across america with vaccinated people professing loyalty to the brand they happened to have received.
+she’s continued the parodies.
+a clip she posted last week showed pfizer and moderna as “frenemies,” gossiping on the phone about johnson & johnson’s pause.
+“i’m just delivering,” announced pfizer, looking glamorous while sipping champagne.
+still, turning something that is ultimately a medical procedure involving needles into a trendy bragging right might serve a higher purpose.
+“i think it helps counter the anti-vax people,” mr. thomas said.
+“it gets people to do something by making it cool, fun, and visible.”
+ms. marsh made these videos after observing the behavior of people around her.
+“people were talking on social media about their symptoms, their first dose, the second dose, which vaccine they got,” she said.
+“i just found it all really funny.” she also noticed she felt loyalty to her vaccine.
+“i did get pfizer,” she said.
+“i am happy, i am lucky, i am grateful.”
+supported by
+advertisement
+along with comparison of side effects, there is pride, relief and merch.
+she believes her loyalty comes from deep gratitude for relief from worry.
+“i got the shot, and two weeks later i felt very confident i wasn’t going to get severely ill,” she said.
+now there is also loyalty.
+“there are so few people who got j.
+& j. compared to the other vaccines, that there is a little bit of a, ‘we are small but mighty’ thing,” she said.
+tiktok users as far away as germany, brazil, croatia, and portugal left comments.
+sam lee from san diego and luke brewer from lansing, mich., opened a shop on etsy named viralmerchco three weeks ago, mostly to sell t-shirts and sweatshirts that advertise a vaccine brand.
+the items say phrases like “pfizer alumni” and come in a range of colors.
+when beth wilensky, 48, a law professor at the university of michigan in ann arbor, was given a last-minute vaccine slot at a nearby walmart last month, she didn’t care which vaccine she received.
+“the numbers were going up here,” she said.
+“i was thrilled to get any of them.”
+“we saw ‘vaccinated’ posts all over social media.
+many of the people posting also posted which vaccine they received, and it seemed like people took a lot of pride in this,” mr. lee said.
+“we gave the people what they were looking for.” they said they’ve almost a hundred items, and other etsy shops provide similar apparel.
+all three covid-19 vaccines available in america are remarkably effective.
+as the centers for disease control and prevention put it, “the best covid-19 vaccine is the first one that is available to you.” most people aren’t even in a position to choose which one they get.
+“it’s like the sorting hat in ‘harry potter,’” said mr. thomas.
+mr. thomas, who works in printing and lives in plymouth, mich., was clearly joking.
+“just pretending like we care which vaccine we got makes it fun,” he said.
+“it’s like a game to say, ‘i’m on team pfizer, or i’m on team moderna.’”
+“i think my wife and i should get different shirts that say pfizer and moderna,” he added.
+“it will get the word out that, ‘hey, we got vaccines, and they are all good.”
+“what do people do when they get a miracle?” she added.
+“it’s a little weird to go to the temple and thank god for the mrna vaccine, so they thank pfizer or moderna instead.”
+but, suffused with relief after a year of isolation and loss, many people are getting quite attached to the companies that made their shots, some even buying t-shirts that broadcast the tribe they’ve “joined” (call it pharmcore).
+ellyn marsh, a broadway actress, knew she struck a chord when she posted a video on tiktok where she was pretending to dance in a club and bragging over the music about which vaccine she got.
+“it got a million and a half views really quickly,” she said.
+“i was like ok, ‘this is something people want to talk about.’”
+by alyson krueger
+the gist of them: you should feel lucky you got any vaccine.
+“i was google translating some of them, and they were such an eye opener for me,” she said.
+“in other countries they were crossing a finger for any vaccine, and here we are comparing our vaccines and our symptoms.
+it’s like ‘ok, we need to check our privilege.’”
+selfies with vaccine cards now come with the caption #teampfizer or #teammoderna.
+tiktokers making fun of the brands they didn’t receive are going viral.
+and some people joining in the playful rivalry are questioning their privilege, asking themselves why they care and how their posturing might look to others in the world who have no vaccine at all.
+“i’m in a mixed marriage,” tweeted david thomas, 51.
+“i got pfizer, and my wife is getting the moderna vaccine today.
+how will this affect our kids?”
+a few weeks later the c.d.c.
+announced it would pause the use of the johnson & johnson vaccine, the one she received.
+rather than feel fear, however, ms. wilensky felt defiant.
+“as someone who got the j.
+& j., i want to shout to rooftops how happy i am,” she tweeted.
+“maybe i should start a j.
+& j. fan club to show some love to this unfairly maligned vaccine?”
+
+
+==========https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19===========
+<<h1>>
+moderna’s work on our covid-19 vaccine
+<<p>>
+chinese authorities shared the genetic sequence of the novel coronavirus.
+barda awarded moderna up to $483 million to accelerate development of mrna-1273 to enable large-scale production in 2020 for pandemic response.
+non-human primate preclinical viral challenge study of mrna-1273 published in the new england journal of medicine
+the cohorts of older adults and elderly adults in nih-led phase 1 study of mrna-1273 completed enrollment.
+the fda completed its review of the ind application filed by the nih for mrna-1273 and allowed the study to proceed to clinical trials.
+moderna and lonza announced a worldwide strategic collaboration with the goal to enable manufacturing of up to 1 billion doses of mrna-1273 per year.
+once the covid-19 pandemic struck, we were well positioned to adapt our existing mrna technology to try to address the global public health crisis.
+we worked closely with the nih and other government and non-government partners to design and implement a robust covid-19 vaccine clinical trial program that prioritized safety.
+our speed in developing the moderna covid-19 vaccine was ultimately a product of our many years of research and investment in mrna vaccines.
+the phase 3 study of mrna-1273 being conducted in collaboration with the nih and barda begins
+mrna-1273 met its primary efficacy endpoint in the first interim analysis of the phase 3 cove study.
+the u.s. centers for disease control and prevention’s (cdc) advisory committee on immunization practices (acip) voted to recommend the use of the moderna covid-19 vaccine in people 18 years of age and older under the emergency use authorization (eua) issued by the u.s. fda.
+the cohort of younger adults (n=300) and the sentinel group of older adults (n=50) in moderna’s phase 2 study of mrna-1273 completed enrollment.
+by the time of the covid-19 pandemic, we had already been working for years on vaccines for infectious diseases, including on other coronaviruses and their spike proteins.
+as part of our mrna technology platform, we had also already developed an mrna delivery system that was specifically designed for vaccines.
+interim results from the nih-led phase 1 study of mrna-1273 published in the new england journal of medicine
+forward looking statements
+moderna and catalent announced a collaboration for fill-finish manufacturing of mrna-1273.
+niaid, part of nih, disclosed their intent to run a phase 1 study using mrna-1273 in response to the coronavirus threat.
+manufacture of this batch was funded by the coalition for epidemic preparedness innovations (cepi).
+moderna announced a longer shelf life for mrna-1273 at refrigerated temperatures.
+while a commercially-available vaccine is not likely to be available for at least 12-18 months, moderna reported it is possible that under emergency use, a vaccine could be available to some people, possibly including healthcare professionals, in the fall of 2020.1
+view moderna’s standard informed consent form and authorization to use and disclose protected health information for protocol number mrna-1273-p301.
+the nih announced that the first participant in its phase 1 study of mrna-1273 was dosed, a total of 63 days from sequence selection to first human dosing.
+interim safety and primary efficacy results from the phase 3 cove study of the moderna covid-19 vaccine were published in the new england journal of medicine.
+takeda pharmaceutical co., ltd submitted a new drug application to the government of japan’s ministry of health, labour and welfare (mhlw) to import and distribute moderna’s vaccine candidate against covid-19 in japan.
+before there was ever a covid-19 pandemic, our ten years of research and clinical trials taught us valuable lessons about designing both mrna therapeutics and mrna vaccines.
+this includes, in particular, how to manufacture and formulate mrna that can produce the targeted proteins – the spike protein, in the case of coronaviruses like the sars-cov-2 virus – in the body.
+clinical trials of our mrna vaccine candidates against a variety of viruses have repeatedly demonstrated that they induce the desired immune response.
+important safety information
+the first participant was dosed in the phase 1/2 study of moderna’s vaccine candidate against covid-19 in japan, led by takeda pharmaceutical co., ltd.
+moderna shipped the first clinical batch of mrna-1273 to the nih for use in their phase 1 clinical study.
+the u.s. fda’s vaccines and related biological products advisory committee (vrbpac) recommended that the fda grant an emergency use authorization (eua) for the company’s covid-19 vaccine candidate
+moderna submitted  an ind to the u.s. fda for phase 2 study of mrna-1273.
+since 2010, moderna has focused on building our mrna technology platform by leveraging the role mrna plays in instructing cells to create proteins.
+our platform produces mrna that can be delivered to cells without provoking an immune response against the mrna itself.
+moderna is using this platform to pursue mrna medicines for a broad spectrum of diseases.
+moderna announced positive interim phase 1 data for mrna-1273.
+results from in vitro neutralization studies of sera from individuals vaccinated with moderna covid-19 vaccine showing activity against emerging strains of sars-cov-2.
+the nih and moderna’s infectious disease research team finalized the sequence for mrna-1273.
+moderna mobilized toward clinical manufacture.
+interim results from the older adult age cohorts (ages 56-70 and ages 71+) in the phase 1 study of mrna-1273 published in the new england journal of medicine
+moderna announced new capital investments to increase capacity at its owned and partnered manufacturing facilities, which it expects will increase global 2022 capacity to approximately 1.4 billion doses of its covid-19 vaccine, assuming a 100 μg dose.
+moderna signed a pledge to continue to make the safety and well-being of vaccinated individuals the top priority in development of the first covid-19 vaccines.
+moderna completed enrollment of its phase 2 study of mrna-1273.
+the nih announced that emory university in atlanta would begin enrolling healthy adult volunteers ages 18 to 55 years in the nih-led phase 1 study of mrna-1273.
+moderna confirmed that it is scaling up manufacturing capacity toward the production of millions of doses per month, in the potential form of individual or multi-dose vials.2
+moderna received fda fast track designation for mrna-1273.
+1 any emergency use would be subject to authorization by the appropriate regulatory agencies, based on the emergence of clinical data for mrna-1273 that would support use of the vaccine prior to licensure.2 as has previously been disclosed, the ability of the company to make millions of doses per month is contingent on investments in the scale up and further buildout of the company’s existing manufacturing infrastructure.
+moderna covid-19 vaccine is authorized for use under an emergency use authorization (eua) for active immunization to prevent coronavirus disease 2019 (covid-19) caused by severe acute respiratory syndrome coronavirus 2 (sars-cov-2) in individuals 18 years of age and older.
+moderna covid-19 vaccine is investigational and not approved by fda.
+moderna completed enrollment of the phase 3 cove study
+this press release contains forward-looking statements within the meaning of the private securities litigation reform act of 1995, as amended, including regarding the company’s development of a potential vaccine against the novel coronavirus, the conduct and timing of the phase i study of mrna-1273, the planning, conduct and timing of a potential phase 2 and any subsequent trials of mrna-1273, and potential manufacturing capabilities.
+in some cases, forward-looking statements can be identified by terminology such as “will,” “may,” “should,” “expects,” “intends,” “plans,” “aims,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “continue,” or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words.
+the forward-looking statements in this summary and faq are neither promises nor guarantees, and you should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors, many of which are beyond moderna’s control and which could cause actual results to differ materially from those expressed or implied by these forward-looking statements.
+these risks, uncertainties, and other factors include, among others: the fact that there has never been a commercial product utilizing mrna technology approved for use; the fact that the rapid response technology in use by moderna is still being developed and implemented; and those other risks and uncertainties described under the heading “risk factors” in moderna’s most recent annual report on form 10-k filed with the u.s. securities and exchange commission (sec) and in subsequent filings made by moderna with the sec, which are available on the sec’s website at www.sec.gov.
+except as required by law, moderna disclaims any intention or responsibility for updating or revising any forward-looking statements contained in this summary and faq in the event of new information, future developments or otherwise.
+these forward-looking statements are based on moderna’s current expectations and speak only as of the date hereof.
+vaccine candidate
+barda expands agreement to support larger phase 3 program for mrna-1273
+moderna completed manufacturing of clinical trial material for its variant-specific vaccine candidate, mrna-1273.351, against the sars-cov-2 variant known as b.1.351 and shipped doses to the nih for a phase 1 clinical trial that will be led and funded by niaid.
+authorized use
+moderna reported that anthony s. fauci, m.d., director of niaid, participated in an interview with national geographic, which described his assessment of the results of certain preclinical testing related to the ongoing phase 1 clinical study of mrna-1273.
+moderna announced a supply agreement with the u.s. government for an initial 100 million doses of mrna-1273.
+view the demographic data for the phase 3 cove study
+the nih-led phase 1 study of mrna-1273 completed enrollment of three dose cohorts (25 µg, 100 µg and 250 µg) and expanded to an additional six cohorts: three cohorts of older adults (ages 56 -70) and three cohorts of elderly adults (age 71 and above).
+the first clinical batch of mrna-1273 was completed, a total of 25 days from sequence selection to vaccine manufacture.
+the batch then proceeded to analytical testing for release.
+learn about our
+moderna announced the primary efficacy analysis of the phase 3 cove study and filed for an emergency use authorization with the u.s. fda.
+the first participants in each age cohort were dosed in moderna’s phase 2 study of mrna-1273.
+the first adolescent participants were dosed in the phase 2/3 study of mrna-1273.
+the fda authorized the emergency use of mrna-1273 in individuals 18 years of age or older
+
+
+==========https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/moderna-covid-19-vaccine===========
+<<h1>>
+moderna covid-19 vaccine
+u.s. food and drug administration
+<<p>>
+the .gov means it’s official.federal government websites often end in .gov or .mil.
+before sharing sensitive information, make sure you're on a federal government site.
+for the prevention of 2019 coronavirus disease (covid-19) for individuals 18 years of age and older
+on december 18, 2020, the u.s. food and drug administration issued an emergency use authorization (eua) for the second vaccine for the prevention of coronavirus disease 2019 (covid-19) caused by severe acute respiratory syndrome coronavirus 2 (sars-cov-2).
+the emergency use authorization allows the moderna covid-19 vaccine to be distributed in the u.s for use in individuals 18 years of age and older.
+04/01/2021
+the site is secure.
+the https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+the most commonly reported side effects, which typically lasted several days, were pain at the injection site, tiredness, headache, muscle pain, chills, joint pain, swollen lymph nodes in the same arm as the injection, nausea and vomiting, and fever.
+of note, more people experienced these side effects after the second dose than after the first dose, so it is important for vaccination providers and recipients to expect that there may be some side effects after either dose, but even more so after the second dose.
+learn more.
+
+

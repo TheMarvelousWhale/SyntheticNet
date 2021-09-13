@@ -1,0 +1,69 @@
+
+% Chapter 2
+
+\chapter{Literature Review}
+\chaptermark{Literature Review}
+
+This section presents a survey of existing approaches to deal with OOV as well as their advantages and disadvantages. The main approaches can be broadly divided into (1) sub-word segmentation, (2) fine tuning on better corpus, and (3) other novel methods. By examining the various different approaches to dealing with unknown words, we gain a better understanding of the properties of word-embedding in their latent space and the time and memory complexity of each method's implementation. From there, we hope to combine the insights and groundwork of these studies to come up with an implementation best suited for our specifications. 
+
+\section{Sub-word Segmentation}
+
+Segmentation, in general, is a technique to separate an input text into useful components for analysis. Before sub-word segmentation becomes popular, word segmentation was widely adopted in research and production field. However, it requires a huge vocabulary size (approximately 70000 words for English) and thus pose a huge constraints in training and storing models.Further more, many tokens overlap, such as 'look' and 'looks', which do not provide meaningful information to NLP models. Character-level segmentation and word-char hybrid models were introduced in \cite{DBLP:journals/corr/LuongM16}, where the character model evaluated on the \emph{newstest2015} NMT dataset achieved competitive BLEU-score with significantly smaller vocabulary size. However it is difficult to train and tune these character level models due to its long convergence (3 months compared to 3 weeks for a similar word-level model \cite{DBLP:journals/corr/LuongM16}. To tackle these issues, \cite{sennrich-etal-2016-neural} introduced the concept of segmenting words into sequences of sub-word units to provide a more meaningful representation within a reasonable vocabulary size. A brief overview of the aforementioned approaches is presented in table \tref{tab:segmentation} for illustration.
+
+\begin{table}
+	\centering
+	\begin{tabular}{cc}\toprule
+		Input  & \'Cooked\' \\\midrule
+		Word level & ['Cooked']\\
+		Char level & ['C','o','o','k','e','d']\\
+		Sub-word   & ['Smoke','\#ed']\\
+		\bottomrule
+	\end{tabular}
+	\caption{Word, Character and Sub-word segmentation}
+	\label{tab:segmentation}
+\end{table}
+
+Based on the idea of segmenting text input into meaningful token within a reasonable vocabulary size, many sub-word approaches have emerged and are adopted across the field. In this report, we will focus on the 4 main sub-word techniques (and its variants) that are most widely used and are most popular in NLP: 
+
+\begin{enumerate}
+	\item Byte-Pair-Encoding (BPE)
+	\item WordPiece 
+	\item Unigram Language Model (ULM)
+	\item FastText 
+\end{enumerate}
+
+\subsection{Byte-Pair-Encoding} 
+
+\subsection{WordPiece}
+
+\subsection{Unigram Language Model}
+
+\subsection{FastText} 
+
+2.1.2 BPE
+
+https://aclanthology.org/P16-1162/ 
+
+2.1.3 FastText 
+
+https://paperswithcode.com/paper/enriching-word-vectors-with-subword 
+
+2.2 Retraining
+
+train on Singlish (medium) 
+
+2.3 ConceptNet
+
+using the conceptnet and ppdb to produce wordvec of .... 
+
+2.4 Recursive NN 
+
+https://nlp.stanford.edu/~lmthang/morphoNLM/ 
+
+
+
+2.4 Properties of Word Embeddings 
+
+Vector additivity 
+
+

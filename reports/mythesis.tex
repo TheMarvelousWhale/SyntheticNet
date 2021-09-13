@@ -1,0 +1,136 @@
+%MIT License
+%
+%Copyright (c) 2018 Chen Wang [https://chenwang.site]
+%
+%Permission is hereby granted, free of charge, to any person obtaining a copy
+%of this software and associated documentation files (the "Software"), to deal
+%in the Software without restriction, including without limitation the rights
+%to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%copies of the Software, and to permit persons to whom the Software is
+%furnished to do so, subject to the following conditions:
+%
+%The above copyright notice and this permission notice shall be included in all
+%copies or substantial portions of the Software.
+%
+%THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+%SOFTWARE.
+\documentclass[12pt,a4paper]{Thesis} % Paper size, default font size and one-sided paper
+
+\graphicspath{%
+	{./Pictures/}%
+	{./Figures/}%
+}
+\DeclareMathOperator{\Tr}{Tr}
+\let\savedegree\degree
+\let\degree\relax
+\let\savedegree\ref
+\let\rem\relax
+\usepackage{adjustbox}
+\usepackage{amsmath}
+\usepackage[amssymb]{SIunits}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{mathtools}
+\usepackage{lipsum}
+\usepackage[ruled,vlined,noresetcount]{algorithm2e}
+\usepackage[square, numbers, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers'
+% Making url wrap around
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+\usepackage{url}
+
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+%extra packages
+\usepackage{float}
+\usepackage{color,soul}               % highlighting text
+\usepackage{enumerate}
+\usepackage{Styles/mydefs}
+
+
+\begin{document}
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+\setstretch{1.3} % Line spacing of 1.3
+% Define the page headers using the Fr package and set up for one-sided printing
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+\fancyhead{}   %clear all fields
+\fancyhead[LO]{\sl{\leftmark}}
+\fancyhead[RE]{\sl{\rightmark}}
+\fancyhead[LE,RO]{\thepage}
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+%%% Use \maketitleforreview instead of \maketitle, if you want a PLAIN TITLE PAGE
+
+\maketitle
+%\maketitleforreview
+
+
+% ----------------------------------------------------------------------------------------
+% 	ACKNOWLEDGEMENTS
+% ----------------------------------------------------------------------------------------
+
+\setstretch{1.3} % Reset the line-spacing to 1.3 for body text (if it has changed)
+
+\acknowledgements{\addtocontents{toc}{\vspace{0.8em}} % Add a gap in the Contents, for aesthetics
+
+I wish to express my greatest gratitude to my advisor.
+
+}
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+
+\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+% define the headings for the body of the thesis
+\fancyhead{}   %clear all fields
+\fancyhead[LO]{\sl{\leftmark}}
+\fancyhead[RE]{\sl{\rightmark}}
+\fancyhead[LE,RO]{\thepage}
+
+\input{Chapters/0_abstract}
+
+%hack to make ToC starts immediately after abstract
+\begingroup
+\let\cleardoublepage\clearpage
+\tableofcontents %table of content
+\listoffigures % Write out the List of Figures
+\listoftables % Write out the List of Tables
+
+\mainmatter       % Begin numeric (1,2,3...) page numbering
+\pagenumbering{arabic}
+\setstretch{1.3}  % Return the line spacing back to 1.3
+
+
+
+
+\input{Chapters/1_intro}
+\input{Chapters/2_lit_review}
+\input{Chapters/3_proposed_approach}
+\endgroup
+
+
+\label{Bibliography}
+\setstretch{1}
+\bibliographystyle{unsrtnat}
+\bibliography{References/ref}
+
+\end{document}

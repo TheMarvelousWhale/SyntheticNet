@@ -59,3 +59,14 @@ def get_embedding(train_data,W_norm,vocab):
             label_list.append(get_glove_vec(y,W_norm,vocab))
         train_tensor.append((np.array(tensor_list),np.array(label_list)))
     return train_tensor
+
+#Creating training tensor - list of tuple of (feats,labels), both of which are np array
+def get_batch_embedding(train_batch,W_norm,vocab):
+    tensor_list = []
+    label_list = []
+    for sentence in train_batch:
+        y,x = sentence.split(':')
+        s = re.sub('[\n\r\ ]+',' ',x).strip()
+        tensor_list.append([get_glove_vec(word,W_norm,vocab) for word in s.split(' ')])
+        label_list.append(get_glove_vec(y,W_norm,vocab))
+    return tensor_list,label_list

@@ -1,0 +1,13 @@
+
+#ignoring this folder
+.ipynb_checkpoints/
+assets/
+wandb/
+
+#ignore certain files as they are large
+processed_data/glove6B100d.npy
+glove.6B.100d.txt
+*.pt 
+.exe
+.zip
+processed_data/wiki_only/*.txt
