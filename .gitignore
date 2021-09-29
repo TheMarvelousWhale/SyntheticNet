@@ -11,3 +11,11 @@ glove.6B.100d.txt
 .exe
 .zip
 processed_data/wiki_only/*.txt
+demo/__pycache__/util.cpython-39.pyc
+demo/glove6B100d.npy
+demo/glove_6B/glove.6B.200d.txt
+demo/glove_6B/glove.6B.300d.txt
+demo/glove_6B/glove.6B.50d.txt
+demo/glove_6B/modded_glove.6B.100d.txt
+demo/inference/sian.txt
+demo/glove_6B.zip
