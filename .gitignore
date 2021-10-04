@@ -19,3 +19,4 @@ demo/glove_6B/glove.6B.50d.txt
 demo/glove_6B/modded_glove.6B.100d.txt
 demo/inference/sian.txt
 demo/glove_6B.zip
+processed_data/giga_only/capital_corpus_stopwords_c10.txt

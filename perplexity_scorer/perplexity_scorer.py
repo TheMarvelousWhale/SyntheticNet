@@ -38,7 +38,7 @@ def main():
 
     #use sliding windows with big window to compute perplexity as model has fixed length
     max_length = 512
-    stride = 1
+    stride = 256
 
     lls = []
     for i in tqdm(range(0, encodings.input_ids.size(1), stride)):

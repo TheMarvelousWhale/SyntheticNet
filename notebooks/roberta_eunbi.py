@@ -1,17 +1,16 @@
-import json
+import json,re,os,random
 import numpy as np
-import wandb
-import re
-import random
+
 from datetime import date
 from tqdm import tqdm 
 
+import wandb
 
 import torch
 import torch.nn as nn
-from transformers import AutoTokenizer, AutoModel, AutoConfig
-import torch
 import torch.optim as optim 
+from transformers import AutoTokenizer, AutoModel, AutoConfig
+
 from util import *
 
 ####~~~~~~~~~~~~GLOBAL CONFIG~~~~~~~~~~~~~~~~~~~~~###
@@ -21,9 +20,9 @@ from util import *
 checkpoint='roberta-base'
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 config = AutoConfig.from_pretrained(checkpoint)
-model = AutoModel.from_pretrained(checkpoint)
+roberta_model = AutoModel.from_pretrained(checkpoint)
 vocab = tokenizer.vocab
-roberta_embeddings = model.embeddings.word_embeddings.weight
+roberta_embeddings = roberta_model.embeddings.word_embeddings.weight
 special_token_ids = tokenizer.convert_tokens_to_ids([tokenizer.pad_token,tokenizer.unk_token])
 
 #setup our model
@@ -66,16 +65,18 @@ def get_roberta_embedding(train_data):
                 y,x = sentence.split(':')
                 s = re.sub('[\n\r\ ]+',' ',x).strip()
                 input_ids = [token_to_id(word) for word in s.split(' ')]
-                context_embeddings = roberta_embeddings[input_ids]
+                context_embeddings = roberta_embeddings[input_ids].detach()
                 batch_tensor_list.append(context_embeddings)
                 y_id = token_to_id(y)
-                label_embedding = roberta_embeddings[y_id]
+                label_embedding = roberta_embeddings[y_id].detach()
                 batch_label_list.append(label_embedding)
             except Exception as e:
                 print(sentence)
                 print(e)
                 return
-        train_tensor.append((torch.stack(batch_tensor_list),torch.stack(batch_label_list)))
+        train_tensor.append(
+            (torch.stack(batch_tensor_list),torch.stack(batch_label_list))
+        )
     return train_tensor
 
 
@@ -86,7 +87,7 @@ files_available = [x[:x.find('_')] for x in os.listdir(f'../processed_data/{corp
 
 def negative_sample(target,files,n=4):
     negatives = [x for x in files if x != target]
-    return [target] + random.sample(negatives)
+    return [target] + random.sample(negatives,n)
 
 whatever_we_want_to_rerun = {x:negative_sample(x,files_available,2) for x in ['disease','pneumonia']}
 
@@ -96,16 +97,15 @@ for data_name,training_words in whatever_we_want_to_rerun.items():
     config = wandb.config
         #the hyper
     config.batch_size = 64
-    synmodel = DenseNet(context_length = 10,embed_size=768)
+    model = DenseNet(context_length = 10,embed_size=768)
     training_files_fullpath = [f'../processed_data/{corpus}_only/{x}_corpus_stopwords_c10.txt' for x in training_words]
     training_data = load_training_batch(training_files_fullpath,config.batch_size)
-    config.data = f"{corpus}_only_{''.join(training_files)}"
+    config.data = f"{corpus}_only_{'-'.join(training_words)}"
     
 
     #list of tuples of tensors
 
     train_tensor = get_roberta_embedding(training_data)
-
 
     config.lr = 0.0005
     config.momentum = 0.005
@@ -129,8 +129,6 @@ for data_name,training_words in whatever_we_want_to_rerun.items():
             features,labels = batch
             feat = features
             label = labels
-            print(feat.size())
-            print(label.size())
             predictions = model(feat).squeeze(1)
             loss = criterion(predictions,label)  
             loss.backward()
@@ -147,7 +145,7 @@ for data_name,training_words in whatever_we_want_to_rerun.items():
     best_valid_loss = float('inf')
 
     for epoch in tqdm(range(config.epochs)):   
-        train_loss,cosim_score= train(synmodel,iter(train_tensor), optimizer, criterion)
+        train_loss,cosim_score= train(model,iter(train_tensor), optimizer, criterion)
 
         #epoch_mins, epoch_secs = epoch_time(start_time, end_time)
 
@@ -160,3 +158,4 @@ for data_name,training_words in whatever_we_want_to_rerun.items():
         print(f'Epoch:{epoch+1:02}\t|\tTrain Loss: {train_loss:.3f}\t|\tCosim score: {cosim_score:.3f}')
 
     torch.save(model.state_dict(),f'../outputs/{date.today().strftime("%Y-%m")}_{config.data}_{wandb.run.name}.pt')
+    wandb.finish()
